@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+sentence-transformers
+pypdf
+langchain-groq
+faiss-cpu
+ipykernel
+google-api-python-client
+langchain
+langchain-community
+langchain-openai
