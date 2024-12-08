@@ -63,9 +63,9 @@ pip install -r requirements.txt
 Create a .env file in the project root with the following content:
 
 ```bash
-GOOGLE_CSE_ID=your_google_cse_id
-GOOGLE_SEARCH_API_KEY=your_google_api_key
-GROQ_API_KEY=your_groq_api_key
+GOOGLE_CSE_ID = your_google_cse_id
+GOOGLE_SEARCH_API_KEY = your_google_api_key
+GROQ_API_KEY = your_groq_api_key
 ```
 
 Replace the placeholders with your API keys.
